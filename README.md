@@ -1,2 +1,2 @@
 # PPO2
-Podstawy Programowania Obiektowego - laboratorium
+Podstawy Programowania Obiektowego 2 - laboratorium
